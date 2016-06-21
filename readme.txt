@@ -6,3 +6,4 @@ Creating a new branch conflict fixed
 
 branch dev
 
+new branch dev created by test
